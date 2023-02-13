@@ -1,5 +1,6 @@
-# Counterexample-Guided-Policy-Refinement-in-Multi-Agent-Reinforcement-Learning
-Code contributions and supplement material for counterexample-guided policy refinement in multi-agent reinforcement learning (Accepted in AAMAS 2023)
+# CMARL
+
+This repo contains the experiments and code for Counter-Example Guided Policy Refinement in Multi-agent Reinforcement Learning paper
 
 # System Requirements
 

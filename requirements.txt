@@ -1,0 +1,13 @@
+numpy==1.20.3 
+torch==1.8.1 
+GPyOpt==1.2.6
+gym==0.21.0
+pyyaml
+matplotlib
+Box2D
+tensorboard
+pettingzoo==1.14.0
+supersuit==3.3.2
+pygame
+pyglet
+pandas

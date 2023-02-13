@@ -1,0 +1,52 @@
+multiwalker_v7:
+    'timesteps_per_batch': 2048
+    'max_timesteps_per_episode': 1000 
+    'gamma': 0.99
+    'lam': 0.95
+    'n_updates_per_iteration': 10
+    'lr': !!float 6.0e-4
+    'clip': 0.3
+    'seed': 702
+    'training_step' : 2000
+    
+multiwalker_v7-sub:
+    'timesteps_per_batch': 2048
+    'max_timesteps_per_episode': 1000 
+    'gamma': 0.99
+    'lam': 0.95
+    'n_updates_per_iteration': 10
+    'lr': !!float 6.0e-4
+    'clip': 0.3
+    'seed': 702
+    'training_step' : 800
+    
+multiwalker_v7-sec:
+    'timesteps_per_batch': 2048
+    'max_timesteps_per_episode': 1000 
+    'gamma': 0.99
+    'lam': 0.95
+    'n_updates_per_iteration': 10
+    'lr': !!float 6.0e-4
+    'clip': 0.2
+    'seed': 702
+    'training_step' : 20
+ 
+waterworld_v3: 
+    'timesteps_per_batch': 6144
+    'max_timesteps_per_episode': 1002
+    'gamma': 0.99
+    'n_updates_per_iteration': 12
+    'lr': !!float 6.0e-4
+    'clip': 0.3
+    'seed': 702
+    'training_step' : 2000
+    
+waterworld_v3-sub: 
+    'timesteps_per_batch': 6144
+    'max_timesteps_per_episode': 1002
+    'gamma': 0.99
+    'n_updates_per_iteration': 12
+    'lr': !!float 6.0e-4
+    'clip': 0.2
+    'seed': 702
+    'training_step' : 500
